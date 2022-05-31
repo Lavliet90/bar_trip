@@ -5,7 +5,7 @@ local information about the establishments of their city. Our users will be able
 new acquaintances and rally the community around good establishments. At the moment we are 
 starting from Bialystok, but there will be the possibility of integration with other cities.
 
-# 2. Sistem desctiption
+# 2. System description
 
 The system consists of the following main functional blocks:
 
@@ -41,7 +41,7 @@ a specific city.
 ## 2.4 Level 2 user features
 
 - editing a linked establishment
-- creating entries in a specific bar(can choose only for the institution, or also for the city)
+- creating entries in a specific bar(can choose only for the establishments, or also for the city)
 
 ## 2.5 Custom subscription
 
