@@ -1,0 +1,1 @@
+KEY_DJANGO = 'django-insecure-xe99ijk0du97g760wunej2an$)r%i)(v#mu-un8^dx1b#o8p%+'
