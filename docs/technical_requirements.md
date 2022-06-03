@@ -64,4 +64,3 @@ To implement the system, the following stack of technologies is proposed::
 # 4. Design requirements
 
 Will discuss in the coming days
-
